@@ -1,0 +1,35 @@
+.card-data {
+    border: solid 1px;
+    padding: 20px 50px;
+    color: white;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.card-data.book {
+    background-color: teal;
+}
+
+.card-data.category {
+    background-color: rgb(188, 99, 25);
+}
+.card-data.user {
+    background-color: rgb(52, 79, 175);
+}
+
+.card-data i {
+    font-size: 80px;
+}
+
+.card-desc {
+    font-size: 30px;
+}
+
+.card-count {
+    font-size: 30px;
+}
+
+.rent-log {
+    margin-left: 5px;
+    margin-right: 5px;
+}
